@@ -1,0 +1,1 @@
+{"jsonPath": "/json", "staticPath": "/static", "serverPort": 8080, "endpoints": [{"path": "/products", "json": "products.json"}]}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "products": {
+    "section": "Electronics",
+    "productsList": [
+      {
+        "_id": "6b114602-efe1-11ed-a6b7-204747521540",
+        "name": "Sony PlayStation 5",
+        "description": "The Sony PlayStation 5 is the latest gaming console from Sony.",
+        "price": 499.99,
+        "category": "Gaming"
+      },
+      {
+        "_id": "6b12059d-efe1-11ed-b3f0-204747521540",
+        "name": "Apple iPhone 13",
+        "description": "The Apple iPhone 13 is the latest smartphone from Apple.",
+        "price": 799.99,
+        "category": "Electronics"
+      }
+    ]
+  }
+}
